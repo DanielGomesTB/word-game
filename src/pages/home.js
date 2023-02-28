@@ -11,7 +11,7 @@ export default function Home({ navigation }) {
         onPress={() => navigation.navigate('Settings')}
       />
       <Button 
-        title='Categories'
+        title='Play'
         onPress={() => navigation.navigate('Categories')}
       />
     </View>
